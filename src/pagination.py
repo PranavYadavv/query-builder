@@ -1,6 +1,6 @@
 """
 Pagination utilities for list endpoints for query-builder.
-Updated: 2026-07-12
+Updated: 2026-07-18
 """
 
 import logging
